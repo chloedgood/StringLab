@@ -8,7 +8,7 @@ System.out.println(word.toUpperCase().charAt(0) + word.substring(1).toLowerCase(
 	
 	public static void main(String[] args) {
 		
-		String a = "blaze";
+		String a = "blaZe";
 		
 		capitalize(a);
 
